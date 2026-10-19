@@ -17,8 +17,8 @@
 ## 👥 TEAM MEMBERS
 | STT | Họ và Tên | MSSV | GitHub Username | Vai trò dự kiến |
 | :-: | :--- | :---: | :--- | :--- |
-| 1 | Tô Thế Hưng | 2211384 | `@username` | Product Lead |
-| 2 | [Tên thành viên 2] | [MSSV] | 'tothehung` | none |
+| 1 | Tô Thế Hưng | 2211384 | `tothehung` | Product Lead |
+| 2 | [Tên thành viên 2] | [MSSV] | '@username` | none |
 | 3 | [Tên thành viên 3] | [MSSV] | `@username` | none |
 | 4 | [Tên thành viên 4] | [MSSV] | `@username` | none |
 | 5 | [Tên thành viên 5] | [MSSV] | `@username` | none |
