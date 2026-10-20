@@ -25,17 +25,3 @@
 
 ---
 
-## 📖 TABLE OF CONTENTS (WIKI DOCUMENTATION)
-* [1. Project Direction](DÁN_LINK_WIKI_MỤC_1)
-* [2. Mobile Product Rationale](DÁN_LINK_WIKI_MỤC_2)
-* [3. Critical Assumptions](DÁN_LINK_WIKI_MỤC_3)
-* [4. Evidence Plan](DÁN_LINK_WIKI_MỤC_4)
-* [5. User & Market Research](DÁN_LINK_WIKI_MỤC_5)
-* [6. Existing Solutions & Alternatives](DÁN_LINK_WIKI_MỤC_6)
-* [7. Evidence Evaluation & Product Decisions](DÁN_LINK_WIKI_MỤC_7)
-* [8. Business Canvas (3x3)](DÁN_LINK_WIKI_MỤC_8)
-* [9. Impact–Effort Matrix](DÁN_LINK_WIKI_MỤC_9)
-* [10. MVP Scope](DÁN_LINK_WIKI_MỤC_10)
-* [11. User Stories](DÁN_LINK_WIKI_MỤC_11)
-* [12. Critical User Flows](DÁN_LINK_WIKI_MỤC_12)
-* [13. Project Plan & Traceability Matrix](DÁN_LINK_WIKI_MỤC_13)
