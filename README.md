@@ -6,10 +6,10 @@
 
 ## QUICK ACCESS LINKS (PROJECT ENTRY POINT)
 
-1. 📘 **[Project Documentation (GitHub Wiki)](DÁN_LINK_GITHUB_WIKI_VÀO_ĐÂY)**
-2. 🏢 **[GitHub Organization (Team Members)](DÁN_LINK_GITHUB_ORG_VÀO_ĐÂY)**
-3. 📋 **[GitHub Project Board (Backlog, Tasks & Milestones)](DÁN_LINK_GITHUB_PROJECT_VÀO_ĐÂY)**
-4. 📊 **[Research Evidence (Anonymized Survey Dataset & Charts)](DÁN_LINK_GOOGLE_SHEET_VÀO_ĐÂY)**
+1. 📘 **[Project Documentation (GitHub Wiki)](https://github.com/HCMUT-StreetEye-MobileApp/StreetEye/wiki)**
+2. 🏢 **[GitHub Organization (Team Members)](https://github.com/orgs/HCMUT-StreetEye-MobileApp/people)**
+3. 📋 **[GitHub Project Board (Backlog, Tasks & Milestones)](https://github.com/orgs/HCMUT-StreetEye-MobileApp/projects)**
+4. 📊 **[Research Evidence (Anonymized Survey Dataset & Charts)](https://docs.google.com/spreadsheets/d/1cKZmn2UF93ZkqqS6xtTuRBior2vT-cHEBMWRxykkQX0/edit?usp=sharing)**
 5. 📝 **[Original User Survey Form (Google Forms)](https://forms.gle/mLpMfrsdEafx7jjk8)**
 
 ---
