@@ -14,14 +14,12 @@
 
 ---
 
-## 👥 TEAM MEMBERS
-| STT | Họ và Tên | MSSV | GitHub Username | Vai trò dự kiến |
+## 👥 Thành viên Nhóm
+| STT | Họ và Tên | MSSV | GitHub | Vai trò chính |
 | :-: | :--- | :---: | :--- | :--- |
 | 1 | Tô Thế Hưng | 2211384 | `tothehung` | Product Lead |
-| 2 | [Tên thành viên 2] | [MSSV] | '@username` | none |
-| 3 | [Tên thành viên 3] | [MSSV] | `@username` | none |
-| 4 | [Tên thành viên 4] | [MSSV] | `@username` | none |
-| 5 | [Tên thành viên 5] | [MSSV] | `@username` | none |
-
+| 2 | Nguyễn Đình Khang | 2411451 | `MoonLovesMath` | Member |
+| 3 | Mai Trịnh Thiên Ân  | 2310182 | `Leduo-1712 ` | Member |
+| 4 | Phùng Xương Cận | 2210348 | `canxphung` | Member |
+| 5 | Huỳnh Cẩm Ly | 2312008 | `Zinlia` | Member |
 ---
-
